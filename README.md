@@ -29,7 +29,7 @@ The complete interactive Power BI report is available below:
 
 [Download the Power BI Dashboard](Pioneer%20edu%20dashboard.pbix)
 
-> Open the `.pbix` file using Microsoft Power BI Desktop.
+> The `.pbix` file requires Microsoft Power BI Desktop to open.
 
 ---
 

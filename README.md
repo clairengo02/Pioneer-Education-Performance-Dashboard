@@ -23,6 +23,14 @@ The report contains two interactive dashboard pages:
 1. Education Performance Overview
 2. Student Performance Overview
 
+## Power BI Dashboard File
+
+The complete interactive Power BI report is available below:
+
+[Download the Power BI Dashboard](Pioneer%20edu%20dashboard.pbix)
+
+> Open the `.pbix` file using Microsoft Power BI Desktop.
+
 ---
 
 ## 1. Education Performance Overview

@@ -25,9 +25,9 @@ The report contains two interactive dashboard pages:
 
 ## Power BI Dashboard File
 
-The complete interactive Power BI report is available below:
+[⬇️ Download the Power BI Dashboard (.pbix)](https://raw.githubusercontent.com/clairengo02/Pioneer-Education-Performance-Dashboard/main/Pioneer%20edu%20dashboard.pbix)
 
-[Download the Power BI Dashboard](./Pioneer%20edu%20dashboard.pbix?raw=1)
+> Requires Microsoft Power BI Desktop to open.
 
 ---
 

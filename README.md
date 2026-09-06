@@ -49,8 +49,7 @@ This page provides a high-level view of participation, enrolment, and academic o
 - Enrolments by Student Group
 - Minimum expected weekly-score reference line
 
-![Education Performance Overview](Performance%20Overview%20dashboard.png) 
-
+![Education Performance Overview](performance-overview-dashboard.png)
 ### 2. Student Performance Overview
 
 This page provides a more detailed view of student achievement and potential support needs.
@@ -68,7 +67,7 @@ This page provides a more detailed view of student achievement and potential sup
 - Average Attendance Rate by Gender
 - Average Term Score by Subject
 
-![Student Performance Overview](Student%20Performance%20dashboard.png) 
+![Student Performance Overview](student-performance-dashboard.png)
 
 ### Interactive filters
 

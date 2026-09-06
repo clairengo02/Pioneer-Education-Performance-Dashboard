@@ -150,7 +150,7 @@ The model is designed so that student and subject dimensions filter the related 
 
 - The dataset contains **25 students**.
 - The overall average attendance rate is approximately **94%**.
-- **16 of 25 students (64%)** met the academic requirements, while **9 students (36%)** did not.
+- **13 of 25 students (52%)** met the academic requirements, while **12 students (48%)** did not.
 - **16 of 25 students (64%)** continued their enrolment, while **9 students (36%)** discontinued.
 - The average weekly score is approximately **7.24 out of 10**.
 - Four students were tied for the highest recorded term score of **86**: Damon Dang, Justin Duong, Lucas Emmanuel Hutomo, and Sienna Healy-Sanchez.

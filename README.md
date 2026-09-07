@@ -157,7 +157,8 @@ The model is designed so that student and subject dimensions filter the related 
 ### Attendance and academic achievement
 
 Based on these findings in dashboard 2, attendance showed the clearest association with performance: 
-"Students who met requirements and continued enrolment generally had higher attendance and stronger term results. This is an association within the dataset and does not by itself prove that attendance causes higher marks."
+
+- Students who met requirements and continued enrolment generally had higher attendance and stronger term results. This is an association within the dataset and does not by itself prove that attendance causes higher marks.
 
 In conclusion, Pioneer Education could:
 

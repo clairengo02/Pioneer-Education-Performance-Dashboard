@@ -156,16 +156,24 @@ The model is designed so that student and subject dimensions filter the related 
 
 ### Attendance and academic achievement
 
-Attendance showed the clearest association with performance:
+Based on these findings in dashboard 2, attendance showed the clearest association with performance: 
+"Students who met requirements and continued enrolment generally had higher attendance and stronger term results. This is an association within the dataset and does not by itself prove that attendance causes higher marks."
 
-| Student outcome | Students | Average attendance | Average recorded term score |
-|---|---:|---:|---:|
-| Met requirement | 16 | 98% | 77.36 |
-| Did not meet requirement | 9 | 87% | 41.87 |
-| Continued enrolment | 16 | 99% | 76.92 |
-| Discontinued enrolment | 9 | 86% | 42.64 |
+In conclusion, Pioneer Education could:
 
-Students who met requirements and continued enrolment generally had higher attendance and stronger term results. This is an association within the dataset and does not by itself prove that attendance causes higher marks.
+- Monitor students whose attendance falls below 90%.
+
+- Provide early support when low attendance occurs alongside declining weekly scores.
+
+- Contact students or parents after repeated absences.
+
+- Provide catch-up activities for missed lessons.
+
+- Review attendance and academic performance together during feedback sessions.
+
+- Recognise students who maintain strong attendance and consistent engagement.
+
+Note: The 97.5% attendance rate is a Term 4 result, while the gender comparison and attendance-performance scatter chart represent all available terms. These results should not be presented as if they use the same filter context.
 
 ### Requirement achievement by student group
 
@@ -178,8 +186,8 @@ The percentages help compare outcomes between differently sized groups. Because 
 
 The two most frequently recorded weaknesses were:
 
-1. **Carelessness** – 13 students
-2. **Lack of attention** – 6 students
+1. **Carelessness** – 11 students
+2. **Lack of attention** – 5 students
 
 Incomplete homework and spelling were each recorded for three students.
 
@@ -313,7 +321,7 @@ The analysis supports an education program focused on early identification, targ
 ## Data and Analysis Limitations
 
 - The dataset contains only 25 students.
-- Terms 1, 3, and 4 contain different numbers and groups of students.
+- Terms 1, 3, and 4 contain different numbers and groups of students and Term 2 is missing.
 - Term comparisons are not necessarily based on the same students and should not be treated as direct individual improvement.
 - Subject groups are substantially unbalanced, with considerably more Mathematics than English records.
 - Attendance contains only three recorded levels: 80%, 90%, and 100%.

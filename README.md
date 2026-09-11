@@ -371,6 +371,9 @@ Pioneer-Education-Performance-Dashboard/
 └── README.md
 ```
 
+## Note:
+This dataset has been modified to protect student confidentiality. All personally identifiable information has been removed or replaced, and some values have been adjusted for demonstration and analytical purposes. No individual student can be identified from the data presented.
+
 ## Author
 
 **Bao Nghi Ngo**  

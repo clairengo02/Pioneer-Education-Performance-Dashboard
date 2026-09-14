@@ -67,7 +67,7 @@ This page provides a more detailed view of student achievement and potential sup
 - Average Attendance Rate by Gender
 - Average Term Score by Subject
 
-![Student Performance Overview](Student%20Performance%20dashboard.png?v=2)
+![Student Performance Overview](Student%20Performance%20dashboard.png?v=3)
 
 ### Interactive filters
 

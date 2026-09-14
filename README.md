@@ -49,7 +49,7 @@ This page provides a high-level view of participation, enrolment, and academic o
 - Enrolments by Student Group
 - Minimum expected weekly-score reference line
 
-![Education Performance Overview](Performance%20Overview%20dashboard.png?v=2)
+![Education Performance Overview](Performance%20Overview%20dashboard.png?v=3)
 ### 2. Student Performance Overview
 
 This page provides a more detailed view of student achievement and potential support needs.

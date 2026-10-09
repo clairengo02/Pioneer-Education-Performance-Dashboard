@@ -108,7 +108,7 @@ Key preparation activities included:
 - Trimming text values to prevent duplicate categories
 - Checking blank values and duplicate records
 - Assigning appropriate text, whole-number, decimal, and percentage data types
-- Separating student, enrolment, result, and subject information
+- Separating student, enrolment, result, and subject information into related tables (3NF)
 - Unpivoting weekly score columns where required for week-based analysis
 - Creating identifiers and relationships to support filtering between tables
 

@@ -104,13 +104,14 @@ The original Excel dataset contained 25 student records and weekly scores from W
 
 Key preparation activities included:
 
-- Correcting column names and removing unnecessary spaces
-- Trimming text values to prevent duplicate categories
-- Checking blank values and duplicate records
-- Assigning appropriate text, whole-number, decimal, and percentage data types
-- Separating student, enrolment, result, and subject information into related tables (3NF)
-- Unpivoting weekly score columns where required for week-based analysis
-- Creating identifiers and relationships to support filtering between tables
+- Checked for missing values and duplicate records. Missing values were mainly caused by student absences, incomplete homework or exams, and assessments completed during make-up lessons where results may have been recorded separately. Missing marks were imputed using each student’s average score to reduce the impact of missing data and retain sufficient observations for analysis. Duplicate records were reviewed and removed where they represented repeated entries rather than meaningful observations.
+- Standardised column names and removed unnecessary spaces to improve consistency.
+- Removed fully blank rows and promoted the first valid row to column headers.
+- Trimmed text values to prevent duplicate categories caused by leading or trailing spaces.
+- Assigned appropriate data types, including text, whole number, decimal, and percentage formats.
+- Normalised the dataset to 3NF by separating student, enrolment, result, and subject information into related tables.
+- Unpivoted weekly score columns where required to support week-based trend analysis and reporting.
+- Removed redundant calculated columns, such as Grade (A–F) and Requirement Status, because these values could be generated dynamically using DAX measures. This reduced unnecessary model storage and helped improve Power BI model efficiency and maintainability.
 
 ## Data Model
 

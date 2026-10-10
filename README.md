@@ -102,7 +102,7 @@ The visuals cross-filter one another, allowing users to investigate specific stu
 
 The original Excel dataset contained 25 student records and weekly scores from Week 1 to Week 10. Power Query was used to clean and restructure the data before analysis.
 
-Key preparation activities included:
+**Key preparation activities included**:
 
 - Checked for missing values and duplicate records. Missing values were mainly caused by student absences, incomplete homework or exams, and assessments completed during make-up lessons where results may have been recorded separately. Missing marks were imputed using each student’s average score to reduce the impact of missing data and retain sufficient observations for analysis. Duplicate records were reviewed and removed where they represented repeated entries rather than meaningful observations.
 - Standardised column names and removed unnecessary spaces to improve consistency.
